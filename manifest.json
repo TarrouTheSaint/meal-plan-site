@@ -1,0 +1,12 @@
+{
+  "name": "Weekly Meal Plan",
+  "short_name": "Meal Plan",
+  "description": "Interactive weekly meal plan with shopping list",
+  "start_url": "/meal-plan-site/",
+  "scope": "/meal-plan-site/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#4a90d9",
+  "icons": []
+}
